@@ -1,4 +1,5 @@
 🕹 Canvas Dodge Game
+
 🎮 Description
 "Canvas Dodge Game" is a simple HTML5 Canvas based arcade game where the player controls a green rectangle and must avoid descending red blocks. The longer you survive, the higher your score!
 
